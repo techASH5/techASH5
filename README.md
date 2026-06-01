@@ -1,32 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════
-     HERO — full-width wave with name + tagline + tech line baked in
-════════════════════════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Mohammed%20Ashfaque&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20AI-Driven%20Product%20Builder&descAlignY=58&descSize=18" width="100%" alt="hero banner" />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=techASH5&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views" />
-  &nbsp;
-  <a href="https://linkedin.com/in/mohammed-ashfaque-1963a9292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="mailto:ashfaque5.2k6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  &nbsp;
-  <a href="https://github.com/techASH5"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Chennai%2C%20India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
-</div>
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     TECH STACK & SKILLS  (mirrors resume order)
-════════════════════════════════════════════════════════════ -->
 <h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
-
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -35,7 +7,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
-
 <p align="center"><strong>Web Development (MERN)</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -43,13 +14,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
-
 <p align="center"><strong>App Development</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native"/>
 </p>
-
 <p align="center"><strong>Data Analytics &amp; AI-ML</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -60,7 +29,6 @@
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 </p>
-
 <p align="center"><strong>Database</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -68,7 +36,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
-
 <p align="center"><strong>AI &amp; Tools</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
@@ -80,7 +47,6 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
-
 <p align="center"><strong>Soft Skills</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Leadership-70A5FD?style=flat-square" alt="Leadership"/>
@@ -88,43 +54,3 @@
   <img src="https://img.shields.io/badge/Adaptability-38BDAE?style=flat-square" alt="Adaptability"/>
   <img src="https://img.shields.io/badge/Time%20Management-70A5FD?style=flat-square" alt="Time Management"/>
 </p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     ABOUT ME — code block + gif (mirrors resume objective tone)
-════════════════════════════════════════════════════════════ -->
-<h2>👨‍💻 About Me</h2>
-
-<table>
-<tr>
-<td valign="top" width="55%">
-
-```javascript
-const ashfaque = {
-  name:     "Mohammed Ashfaque",
-  location: "Chennai, India 🇮🇳",
-  degree:   "B.Tech CSE @ VIT Chennai (2023-2027)",
-  stack:    ["React", "Flutter", "Node.js",
-             "Python", "TypeScript"],
-  focus:    "AI-driven, user-centric products",
-  funFact:  "Built SOS GPS tracking at <5s latency 🚨",
-  motto:    () => "Craft code that solves real problems."
-};
-```
-
-</td>
-<td valign="top" width="45%" align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="coding gif"/>
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     FOOTER WAVE
-════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
-</div>
