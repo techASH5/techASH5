@@ -47,10 +47,4 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
 </p>
-<p align="center"><strong>Soft Skills</strong></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Leadership-70A5FD?style=flat-square" alt="Leadership"/>
-  <img src="https://img.shields.io/badge/Teamwork-BF91F3?style=flat-square" alt="Teamwork"/>
-  <img src="https://img.shields.io/badge/Adaptability-38BDAE?style=flat-square" alt="Adaptability"/>
-  <img src="https://img.shields.io/badge/Time%20Management-70A5FD?style=flat-square" alt="Time Management"/>
-</p>
+
