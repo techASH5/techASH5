@@ -4,8 +4,7 @@
 <p align="center">
   <b>💻 Full-Stack Developer</b> &nbsp;|&nbsp;
   <b>📱 Mobile Developer</b> &nbsp;|&nbsp;
-  <b>🤖 AI-ML Engineer</b> &nbsp;|&nbsp;
-  <b>⚡ Competitive Coder</b>
+  <b>🤖 Data Analyst</b> &nbsp;|&nbsp;
 </p>
 
 <br/>
