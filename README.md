@@ -1,6 +1,5 @@
 <h2 align="center">👋 Mohammed Ashfaque</h2>
-<h3 align="center">🏫 Vellore Institute of Technology, Chennai</h3>
-<p align="center"><b>💻 Full-Stack Dev</b> &nbsp;|&nbsp; <b>📱 Mobile Dev</b> &nbsp;|&nbsp; <b>🤖 AI-ML Engineer</b> &nbsp;|&nbsp; <b>⚡ Competitive Coder</b></p>
+<p align="center"><b>💻 Full-Stack Dev</b> &nbsp;|&nbsp; <b>📱 Mobile Dev</b> &nbsp;|&nbsp; <b>🤖 Data Analyst</b> &nbsp;</p>
 
 <table><tr><td valign="top" width="70%">
 
@@ -11,7 +10,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></p>
 
-<p align="center"><sup><b>WEB (MERN)</b></sup><br/>
+<p align="center"><sup><b>WEB DEV (MERN)</b></sup><br/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -21,7 +20,7 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/></p>
 
-<p align="center"><sup><b>DATA & AI-ML</b></sup><br/>
+<p align="center"><sup><b>DATA ANALYTICS & AI-ML</b></sup><br/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
