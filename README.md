@@ -17,49 +17,9 @@
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════
-     OBJECTIVE
-════════════════════════════════════════════════════════════ -->
-<h2>🎯 Objective</h2>
-
-Seeking an internship to apply and level up hands-on skills in modern software development. Thrives in collaborative, cross-functional team environments — understanding user needs and crafting meaningful, intelligent workflows to build high-impact, solution-driven products.
-
-A passionate developer crafting seamless software–hardware integrations, with hands-on experience in web and mobile development, translating ideas into intuitive, responsive, and scalable experiences. Focused on building **AI-driven, user-centric products** that address real-world problem solving.
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     EDUCATION
-════════════════════════════════════════════════════════════ -->
-<h2>🎓 Education</h2>
-
 <div align="center">
-
-| Degree | Institution | Period | Score |
-|:-------|:------------|:------:|:-----:|
-| **B.Tech — Computer Science &amp; Engineering** | Vellore Institute of Technology, Chennai | Aug 2023 – Jul 2027 | CGPA 7.34 / 10 |
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave"/>
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     PROFESSIONAL EXPERIENCE
-════════════════════════════════════════════════════════════ -->
-<h2>💼 Professional Experience</h2>
-
-<details open>
-<summary><strong>G-Square Techsystems Pvt Ltd</strong> &nbsp;·&nbsp; Front-End Development Intern &nbsp;·&nbsp; Dec 2025 – Jan 2026 &nbsp;·&nbsp; MRV, Chengalpattu</summary>
-<br/>
-
-> `React.js` &nbsp; `React Native` &nbsp; `Flutter` &nbsp; `REST APIs` &nbsp; `State Management`
-
-- Developed responsive web and mobile applications using React.js, React Native, and Flutter, with a strong focus on seamless UI/UX.
-- Built reusable components, integrated APIs, and optimised performance while collaborating with cross-functional teams.
-- Strengthened skills in modern front-end and mobile development, including state management, debugging, and writing clean, maintainable code.
-
-</details>
-
 ---
 
 <!-- ═══════════════════════════════════════════════════════════
@@ -159,66 +119,6 @@ const ashfaque = {
 </td>
 </tr>
 </table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     PROJECTS
-════════════════════════════════════════════════════════════ -->
-<h2>🚀 Projects</h2>
-
-<details open>
-<summary><strong>🛡️ Women Safety System</strong></summary>
-<br/>
-
-> `Flutter` &nbsp; `React` &nbsp; `TypeScript` &nbsp; `REST APIs` &nbsp; `Google Maps API`
-
-- Built Flutter (mobile) and React + TypeScript (web) applications with real-time alerts, SOS triggers, GPS tracking (&lt;5s latency), and REST API integrations, improving response coordination by ~30%.
-- Designed an event-driven dashboard with real-time visualisation, alert monitoring, and incident tracking to enhance accuracy and response speed.
-- Integrated the Google Maps API with geofencing and safe-route navigation, enabling ~25% faster, data-driven emergency insights.
-
-</details>
-
-<br/>
-
-<details open>
-<summary><strong>✈️ AI-Powered Smart Trip Planner</strong></summary>
-<br/>
-
-> `React Native` &nbsp; `NLP` &nbsp; `Google Maps API` &nbsp; `Weather API` &nbsp; `Places API`
-
-- Built a cross-platform AI travel planner (React Native) with an NLP-based conversational interface to generate personalised, budget- and time-aware itineraries.
-- Implemented multi-modal transport selection, real-time pricing (5+ providers), social discovery, and geo-tagged media features (~75% accuracy), boosting engagement by ~45%.
-- Integrated Google Maps, Weather, and Places APIs (10K+ calls) for navigation, route optimisation, and recommendations, achieving &lt;5s latency, ~80% uptime, and ~30% improved accuracy.
-
-</details>
-
-<br/>
-
-<details open>
-<summary><strong>🥗 Thrift Pantry</strong></summary>
-<br/>
-
-> `Flutter` &nbsp; `TypeScript` &nbsp; `Firebase` &nbsp; `Supabase` &nbsp; `REST APIs`
-
-- Built a full-stack platform (Flutter mobile + TypeScript web) enabling real-time, location-based matching between food suppliers and consumers, supporting 500+ users and reducing waste by ~30%.
-- Engineered a supplier portal with inventory management, order tracking, role-based access control, and API-driven real-time data synchronisation.
-- Created a consumer application with real-time location tracking, push notifications, secure authentication, and seamless order workflows integrated with backend services.
-
-</details>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════
-     LEADERSHIP & ACHIEVEMENTS
-════════════════════════════════════════════════════════════ -->
-<h2>🏅 Leadership &amp; Achievements</h2>
-
-**Centre for Social Entrepreneurship and Development – VIT Chennai &nbsp;|&nbsp; General Secretary**
-
-- Managed 250+ members and led the planning and execution of major college events.
-- Organised and led hackathons, ensuring smooth execution and high participant engagement.
-- Shortlisted in **Smart India Hackathon** Preliminary Round **2024 &amp; 2025**.
 
 ---
 
