@@ -1,166 +1,82 @@
-<!-- NAME + ROLE LINES -->
-👋 **Mohammed Ashfaque**
-<br/>
-🏫 Vellore Institute of Technology, Chennai
-<br/>
-💻 Full-Stack Developer &nbsp;|&nbsp; Mobile Developer &nbsp;|&nbsp; AI-ML Engineer &nbsp;|&nbsp; Competitive Coder
+<!-- Header -->
+<h2 align="center">👋 Mohammed Ashfaque</h2>
+<h3 align="center">🏫 Vellore Institute of Technology, Chennai</h3>
+<p align="center">
+  <b>💻 Full-Stack Developer</b> &nbsp;|&nbsp;
+  <b>📱 Mobile Developer</b> &nbsp;|&nbsp;
+  <b>🤖 AI-ML Engineer</b> &nbsp;|&nbsp;
+  <b>⚡ Competitive Coder</b>
+</p>
 
 <br/>
 
----
-
-<!-- LANGUAGES -->
-**LANGUAGES**
-
+<!-- Tech Stack + GIF -->
 <table>
 <tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" /><br/><sub>Python</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" /><br/><sub>C</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" /><br/><sub>C++</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" /><br/><sub>Java</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /><br/><sub>JavaScript</sub>
-  </td>
+<td valign="top" width="68%">
+
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center"><b>Web Development (MERN)</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
+
+<p align="center"><b>App Development</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+<p align="center"><b>Data Analytics & AI-ML</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<p align="center"><b>Database</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+<p align="center"><b>AI & Tools</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+</p>
+
+</td>
+<td valign="middle" align="center" width="32%">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding gif"/>
+</td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- WEB DEVELOPMENT (MERN) -->
-**WEB DEVELOPMENT (MERN)**
-
-<table>
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" /><br/><sub>MongoDB</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" /><br/><sub>Express</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/><sub>React</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" /><br/><sub>Node.js</sub>
-  </td>
-</tr>
-</table>
-
----
-
-<!-- APP DEVELOPMENT -->
-**APP DEVELOPMENT**
-
-<table>
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="48" /><br/><sub>Flutter</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/><sub>React Native</sub>
-  </td>
-</tr>
-</table>
-
----
-
-<!-- DATA ANALYTICS & AI-ML -->
-**DATA ANALYTICS &amp; AI-ML**
-
-<table>
-<tr>
-  <td align="center" width="80">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" /><br/><sub>Pandas</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" /><br/><sub>NumPy</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" /><br/><sub>Matplotlib</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" /><br/><sub>Seaborn</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="48" /><br/><sub>Streamlit</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" /><br/><sub>Scikit-learn</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="48" /><br/><sub>Plotly</sub>
-  </td>
-</tr>
-</table>
-
----
-
-<!-- DATABASE -->
-**DATABASE**
-
-<table>
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" /><br/><sub>MongoDB</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /><br/><sub>MySQL</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" /><br/><sub>Firebase</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" /><br/><sub>Supabase</sub>
-  </td>
-</tr>
-</table>
-
----
-
-<!-- AI & TOOLS -->
-**AI &amp; TOOLS**
-
-<table>
-<tr>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /><br/><sub>VS Code</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" /><br/><sub>Figma</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br/><sub>GitHub</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" /><br/><sub>AWS</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" /><br/><sub>Vercel</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="48" /><br/><sub>OpenAI</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" /><br/><sub>HuggingFace</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://avatars.githubusercontent.com/u/126759922?s=200&v=4" width="48" /><br/><sub>Cursor</sub>
-  </td>
-  <td align="center" width="80">
-    <img src="https://skillicons.dev/icons?i=grok&theme=dark" width="48" /><br/><sub>Grok</sub>
-  </td>
-</tr>
-</table>
-
----
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" alt="footer wave" />
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
