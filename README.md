@@ -1,30 +1,19 @@
 <!-- ═══════════════════════════════════════════════════════════
-     HERO — wave banner with name + tagline baked in as background
+     HERO — full-width wave with name + tagline + tech line baked in
 ════════════════════════════════════════════════════════════ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammed%20Ashfaque&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20AI-Driven%20Product%20Builder&descAlignY=62&descSize=18" width="100%" alt="hero banner" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Mohammed%20Ashfaque&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20AI-Driven%20Product%20Builder&descAlignY=58&descSize=18" width="100%" alt="hero banner" />
 
-<!-- TYPING + SOCIAL ROW -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Hey%2C+I%27m+Ashfaque+%F0%9F%91%8B;Full-Stack+%7C+Mobile+%7C+AI-ML+Developer;React+%7C+Flutter+%7C+Node.js+%7C+Python;Building+AI-driven%2C+user-centric+products" alt="Typing SVG" />
-  <br/><br/>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=techASH5&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views" />
   &nbsp;
-  <a href="https://linkedin.com/in/mohammed-ashfaque-1963a9292">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://linkedin.com/in/mohammed-ashfaque-1963a9292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:ashfaque5.2k6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="mailto:ashfaque5.2k6@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
   &nbsp;
-  <a href="https://github.com/techASH5">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://github.com/techASH5"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Chennai%2C%20India-FF6B35?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</div>
+</p>
 
 ---
 
